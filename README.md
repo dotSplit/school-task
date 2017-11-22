@@ -73,7 +73,7 @@ Visu komandu izvade ir jāiekopē failā ```VARDS_UZVARDS``` un jaizveido jaunā
 
 ## 6.git show
 
-Jaizvada informācija par kādu commit izmantojot ``git show --pretty=format``` komandu ar pašizveidotu preaty formātu.
+Jaizvada informācija par kādu commit izmantojot ```git show --pretty=format``` komandu ar pašizveidotu preaty formātu.
 Info par to [šeit](https://git-scm.com/docs/git-show)
 
 Visu komandu izvade ir jāiekopē failā ```VARDS_UZVARDS``` un jaizveido jaunā comitā ar ziņu ```sestais uzdevums``` un japusho uz github.com.
@@ -84,4 +84,7 @@ Ar kommandu ```git diff``` var apskatīt izmaiņas starp commitiem, kas ir laba 
 
 Visu komandu izvade ir jāiekopē failā ```VARDS_UZVARDS``` un jaizveido jaunā comitā ar ziņu ```septītais uzdevums``` un japusho uz github.com.
 
+## 8.git merge
+
+Pēdejais uzdevums ir mergot savu branch uz master un veikt pull reqest, lai iekļautu to manā uzdevumā.
 
