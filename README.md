@@ -23,6 +23,7 @@ $ git config --global user.email tavs@epasts.com
 $ git config --global user.name "Tavs vārds"
 ```
 
+
 ## 1.git clone
 
 Šo mēs būsim izdarījuši jau stundas laikā, bet ja nebiji stundā ir jaizdara 3 lietas
@@ -82,4 +83,5 @@ Visu komandu izvade ir jāiekopē failā ```VARDS_UZVARDS``` un jaizveido jaunā
 Ar kommandu ```git diff``` var apskatīt izmaiņas starp commitiem, kas ir laba informācija, bet var arī veidot patch failus. Tas ir arī uzdevums izveidot jaunu failu, tajā veikt izmaiņas ar ```git diff HEAD > save.patch```  izveidot jaunu patch failu un šo failu comitot, bet ne failu ko izveidoja.
 
 Visu komandu izvade ir jāiekopē failā ```VARDS_UZVARDS``` un jaizveido jaunā comitā ar ziņu ```septītais uzdevums``` un japusho uz github.com.
+
 
