@@ -1,0 +1,5 @@
+$ git remote -v
+origin  https://github.com/dotSplit/school-task.git (fetch)
+origin  https://github.com/dotSplit/school-task.git (push)
+upstream        https://github.com/zemzale/school-task.git (fetch)
+upstream        https://github.com/zemzale/school-task.git (push)
